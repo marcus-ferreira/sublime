@@ -1,2 +1,3 @@
-# sublime
-Website for my mug shop.
+# Sublime
+
+Website for my shop.
