@@ -6,7 +6,7 @@ function activateSection() {
 	navItem.forEach(item => item.classList.remove('active'));
 	this.classList.add('active');
 
-	fetch("./products.json")
+	fetch("sublime/products.json")
 		.then(res => res.json())
 		.then(data => {
 			for (const key in data) {
