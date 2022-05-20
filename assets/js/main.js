@@ -6,7 +6,7 @@ function activateSection() {
 	navItem.forEach(item => item.classList.remove('active'));
 	this.classList.add('active');
 
-	fetch("./sublime/products.json")
+	fetch("products.json")
 		.then(res => res.json())
 		.then(data => {
 			for (const key in data) {
@@ -29,7 +29,7 @@ function activateSection() {
 navItem.forEach(item => item.addEventListener('click', activateSection));
 
 // Load all products
-fetch("/products.json")
+fetch("products.json")
 	.then(res => res.json())
 	.then(data => {
 		for (const key in data) {
