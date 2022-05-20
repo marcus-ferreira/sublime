@@ -1,0 +1,121 @@
+{
+	"agendas": [
+		{ "nome": "Agenda Borboleta", "img": "assets/img/produtos/agendas/agenda-borboleta-frente.png", "img2": "assets/img/produtos/agendas/agenda-borboleta-verso.png" },
+		{ "nome": "Agenda Flor", "img": "assets/img/produtos/agendas/agenda-flor-frente.png", "img2": "assets/img/produtos/agendas/agenda-flor-verso.png" },
+		{ "nome": "Agenda Flor 2", "img": "assets/img/produtos/agendas/agenda-flor2-frente.png", "img2": "assets/img/produtos/agendas/agenda-flor2-verso.png" },
+		{ "nome": "Agenda Guerreira", "img": "assets/img/produtos/agendas/agenda-guerreira-frente.png", "img2": "assets/img/produtos/agendas/agenda-guerreira-verso.png" },
+		{ "nome": "Agenda Higienização", "img": "assets/img/produtos/agendas/agenda-higienizacao-frente.png", "img2": "assets/img/produtos/agendas/agenda-higienizacao-verso.png" },
+		{ "nome": "Agenda Medicina", "img": "assets/img/produtos/agendas/agenda-medicina-frente.png", "img2": "assets/img/produtos/agendas/agenda-medicina-verso.png" },
+		{ "nome": "Agenda Sonhos", "img": "assets/img/produtos/agendas/agenda-sonhos-frente.png", "img2": "assets/img/produtos/agendas/agenda-sonhos-verso.png" }
+	],
+	"almochaveiros": [
+		{ "nome": "Almochaveiro PH", "img": "assets/img/produtos/almochaveiros/almochaveiro-ph.png" }
+	],
+	"almofadas": [
+		{ "nome": "Almofada Casal", "img": "assets/img/produtos/almofadas/almofada-preta-casal.png" }
+	],
+	"beads": [
+		{ "nome": "Beads Quadro Mega Man", "img": "assets/img/produtos/beads/beads-quadro-megaman.png" }
+	],
+	"cadernos": [
+		{ "nome": "Caderno Biomedicina Avatar", "img": "assets/img/produtos/cadernos/caderno-biomedicina-avatar-frente.png" },
+		{ "nome": "Caderno Biomedicina", "img": "assets/img/produtos/cadernos/caderno-biomedicina-frente.png", "img2": "assets/img/produtos/cadernos/caderno-biomedicina-verso.png" },
+		{ "nome": "Caderno Economia Avatar", "img": "assets/img/produtos/cadernos/caderno-economia-avatar-frente.png", "img2": "assets/img/produtos/cadernos/caderno-economia-avatar-verso.png" },
+		{ "nome": "Caderno Fisioterapia Avatar", "img": "assets/img/produtos/cadernos/caderno-fisioterapia-avatar-frente.png", "img2": "assets/img/produtos/cadernos/caderno-fisioterapia-avatar-verso.png" },
+		{ "nome": "Caderno Insista", "img": "assets/img/produtos/cadernos/caderno-insista-frente.png", "img2": "assets/img/produtos/cadernos/caderno-insista-verso.png" },
+		{ "nome": "Caderno Kpop", "img": "assets/img/produtos/cadernos/caderno-kpop-frente.png" },
+		{ "nome": "Caderno Pedagogia", "img": "assets/img/produtos/cadernos/caderno-pedagogia-frente.png", "img2": "assets/img/produtos/cadernos/caderno-pedagogia-verso.png" }
+	],
+	"camisas": [
+		{ "nome": "Camisa Branca Batismo", "img": "assets/img/produtos/camisas/camisa-branca-batismo.png" },
+		{ "nome": "Camisa Branca Mãe", "img": "assets/img/produtos/camisas/camisa-branca-mae.png" },
+		{ "nome": "Camisa Branca Mãe 2", "img": "assets/img/produtos/camisas/camisa-branca-mae2.png" },
+		{ "nome": "Camisa Branca Pai", "img": "assets/img/produtos/camisas/camisa-branca-pai.png" },
+		{ "nome": "Camisa Branca Vacina", "img": "assets/img/produtos/camisas/camisa-branca-vacina.png" },
+		{ "nome": "Camisa Raglan Cinza Satoru", "img": "assets/img/produtos/camisas/camisa-raglan-cinzapreto-satoru.png" }
+	],
+	"canecas": [
+		{ "nome": "Caneca Branca Alegria", "img": "assets/img/produtos/canecas/caneca-branca-alegria.png" },
+		{ "nome": "Caneca Branca Aniversário", "img": "assets/img/produtos/canecas/caneca-branca-aniversario.png" },
+		{ "nome": "Caneca Branca Aniversário 2", "img": "assets/img/produtos/canecas/caneca-branca-aniversario2.png" },
+		{ "nome": "Caneca Branca Aniversário 3", "img": "assets/img/produtos/canecas/caneca-branca-aniversario3.png" },
+		{ "nome": "Caneca Branca Aniversário 4", "img": "assets/img/produtos/canecas/caneca-branca-aniversario4.png" },
+		{ "nome": "Caneca Branca Avó", "img": "assets/img/produtos/canecas/caneca-branca-avo.png" },
+		{ "nome": "Caneca Branca Avó 2", "img": "assets/img/produtos/canecas/caneca-branca-avo3.png" },
+		{ "nome": "Caneca Branca Avô", "img": "assets/img/produtos/canecas/caneca-branca-avo2.png" },
+		{ "nome": "Caneca Branca Capitão América", "img": "assets/img/produtos/canecas/caneca-branca-capitaoamerica.png" },
+		{ "nome": "Caneca Branca Capitão América 2", "img": "assets/img/produtos/canecas/caneca-branca-capitaoamerica2.png" },
+		{ "nome": "Caneca Branca Casal", "img": "assets/img/produtos/canecas/caneca-branca-casal.png" },
+		{ "nome": "Caneca Branca Cerejeira", "img": "assets/img/produtos/canecas/caneca-branca-cerejeira.png" },
+		{ "nome": "Caneca Branca Educação Física", "img": "assets/img/produtos/canecas/caneca-branca-edfisica.png" },
+		{ "nome": "Caneca Branca Educação Física 2", "img": "assets/img/produtos/canecas/caneca-branca-edfisica2.png" },
+		{ "nome": "Caneca Branca Educação Física 3", "img": "assets/img/produtos/canecas/caneca-branca-edfisica3.png" },
+		{ "nome": "Caneca Branca Enfermagem", "img": "assets/img/produtos/canecas/caneca-branca-enfermagem.jpg" },
+		{ "nome": "Caneca Branca Enfermagem 2", "img": "assets/img/produtos/canecas/caneca-branca-enfermagem.png" },
+		{ "nome": "Caneca Branca Farmácia", "img": "assets/img/produtos/canecas/caneca-branca-farmacia.png" },
+		{ "nome": "Caneca Branca Fisioterapia", "img": "assets/img/produtos/canecas/caneca-branca-fisioterapia.png" },
+		{ "nome": "Caneca Branca Flamengo", "img": "assets/img/produtos/canecas/caneca-branca-flamengo.png" },
+		{ "nome": "Caneca Branca Fluminense", "img": "assets/img/produtos/canecas/caneca-branca-fluminense.png" },
+		{ "nome": "Caneca Branca Fonoaudiologia", "img": "assets/img/produtos/canecas/caneca-branca-fonoaudiologia.png" },
+		{ "nome": "Caneca Branca Gastroenterologia", "img": "assets/img/produtos/canecas/caneca-branca-gastroenterologia.png" },
+		{ "nome": "Caneca Branca Hunter", "img": "assets/img/produtos/canecas/caneca-branca-hunter.png" },
+		{ "nome": "Caneca Branca Kpop", "img": "assets/img/produtos/canecas/caneca-branca-kpop.png" },
+		{ "nome": "Caneca Branca Kpop 2", "img": "assets/img/produtos/canecas/caneca-branca-kpop2.png" },
+		{ "nome": "Caneca Branca Kpop 3", "img": "assets/img/produtos/canecas/caneca-branca-kpop3.png" },
+		{ "nome": "Caneca Branca Leão", "img": "assets/img/produtos/canecas/caneca-branca-leao.png" },
+		{ "nome": "Caneca Branca Logo Aniversário", "img": "assets/img/produtos/canecas/caneca-branca-logo-aniversario.png" },
+		{ "nome": "Caneca Branca Logo Dolce Beatrice", "img": "assets/img/produtos/canecas/caneca-branca-logo-dolce.png" },
+		{ "nome": "Caneca Branca Logo Jiu-Jitsu", "img": "assets/img/produtos/canecas/caneca-branca-logo-jiujitsu.png" },
+		{ "nome": "Caneca Branca Logo Mulheres", "img": "assets/img/produtos/canecas/caneca-branca-logo-mulheres.png" },
+		{ "nome": "Caneca Branca Logo Mulheres 2", "img": "assets/img/produtos/canecas/caneca-branca-logo-mulheres2.png" },
+		{ "nome": "Caneca Branca Logo Studio", "img": "assets/img/produtos/canecas/caneca-branca-logo-studio.png" },
+		{ "nome": "Caneca Branca Mãe Aniversário", "img": "assets/img/produtos/canecas/caneca-branca-mae-aniversario.png" },
+		{ "nome": "Caneca Branca Mãe Aniversário 2", "img": "assets/img/produtos/canecas/caneca-branca-mae-aniversario2.png" },
+		{ "nome": "Caneca Branca Mãe", "img": "assets/img/produtos/canecas/caneca-branca-mae.png" },
+		{ "nome": "Caneca Branca Manicure", "img": "assets/img/produtos/canecas/caneca-branca-manicure.png" },
+		{ "nome": "Caneca Branca Natal", "img": "assets/img/produtos/canecas/caneca-branca-natal.png" },
+		{ "nome": "Caneca Branca Nutrição", "img": "assets/img/produtos/canecas/caneca-branca-nutricao.png" },
+		{ "nome": "Caneca Branca Odontologia", "img": "assets/img/produtos/canecas/caneca-branca-odontologia.png" },
+		{ "nome": "Caneca Branca Ortopedia", "img": "assets/img/produtos/canecas/caneca-branca-ortopedia.png" },
+		{ "nome": "Caneca Branca Pai Botafogo", "img": "assets/img/produtos/canecas/caneca-branca-pai-botafogo.png" },
+		{ "nome": "Caneca Branca Pai", "img": "assets/img/produtos/canecas/caneca-branca-pai.png" },
+		{ "nome": "Caneca Branca Pai 2", "img": "assets/img/produtos/canecas/caneca-branca-pai2.png" },
+		{ "nome": "Caneca Branca Pai 3", "img": "assets/img/produtos/canecas/caneca-branca-pai3.png" },
+		{ "nome": "Caneca Branca Pai 4", "img": "assets/img/produtos/canecas/caneca-branca-pai4.png" },
+		{ "nome": "Caneca Branca Pedagogia", "img": "assets/img/produtos/canecas/caneca-branca-pedagogia.png" },
+		{ "nome": "Caneca Branca Psicologia", "img": "assets/img/produtos/canecas/caneca-branca-psicologia.png" },
+		{ "nome": "Caneca Branca SAF", "img": "assets/img/produtos/canecas/caneca-branca-saf.png" },
+		{ "nome": "Caneca Branca Sozinha", "img": "assets/img/produtos/canecas/caneca-branca-sozinha.png" },
+		{ "nome": "Caneca Branca Técnico em Enfermagem", "img": "assets/img/produtos/canecas/caneca-branca-tecenfermagem.png" },
+		{ "nome": "Caneca Branca The Boss", "img": "assets/img/produtos/canecas/caneca-branca-theboss.png" },
+		{ "nome": "Caneca Colher Mãe", "img": "assets/img/produtos/canecas/caneca-colher-mae.png" },
+		{ "nome": "Caneca Colher Mãe 2", "img": "assets/img/produtos/canecas/caneca-colher-mae2.png" },
+		{ "nome": "Caneca Colher Pai", "img": "assets/img/produtos/canecas/caneca-colher-pai.png" },
+		{ "nome": "Caneca Colorida Direito", "img": "assets/img/produtos/canecas/caneca-colorida-direito.jpg" },
+		{ "nome": "Caneca Colorida Forte", "img": "assets/img/produtos/canecas/caneca-colorida-forte.png" },
+		{ "nome": "Caneca Colorida Frase", "img": "assets/img/produtos/canecas/caneca-colorida-frase.png" },
+		{ "nome": "Caneca Colorida Girassol", "img": "assets/img/produtos/canecas/caneca-colorida-girassol.png" },
+		{ "nome": "Caneca Colorida Logo Adoradoras", "img": "assets/img/produtos/canecas/caneca-colorida-logo-adoradoras.png" },
+		{ "nome": "Caneca Colorida Logo IPB", "img": "assets/img/produtos/canecas/caneca-colorida-logo-ipb.png" },
+		{ "nome": "Caneca Colorida Naruto", "img": "assets/img/produtos/canecas/caneca-colorida-naruto.png" },
+		{ "nome": "Caneca Colorida Pai Vasco", "img": "assets/img/produtos/canecas/caneca-colorida-pai-vasco.png" },
+		{ "nome": "Caneca Colorida Pai", "img": "assets/img/produtos/canecas/caneca-colorida-pai.png" },
+		{ "nome": "Caneca Colorida Percy Jackson", "img": "assets/img/produtos/canecas/caneca-colorida-percyjackson.png" },
+		{ "nome": "Caneca Coração Logo Pet", "img": "assets/img/produtos/canecas/caneca-coracao-logo-pet.png" },
+		{ "nome": "Caneca Coração Nome", "img": "assets/img/produtos/canecas/caneca-coracao-nome.png" },
+		{ "nome": "Caneca Coração Pet", "img": "assets/img/produtos/canecas/caneca-coracao-pet.png" },
+		{ "nome": "Caneca Mágica Capitão América", "img": "assets/img/produtos/canecas/caneca-magica-capitaoamerica.png" },
+		{ "nome": "Caneca Preta Casal", "img": "assets/img/produtos/canecas/caneca-preta-casal.png" },
+		{ "nome": "Caneca Preta LoL", "img": "assets/img/produtos/canecas/caneca-preta-lol.jpg" }
+	],
+	"placas-acrilico": [
+		{ "nome": "Placa Acrílico SAF", "img": "assets/img/produtos/placas-acrilico/placa-acrilico-saf.png" }
+	],
+	"quebra-cabecas": [
+		{ "nome": "Quebra-Cabeça Foto", "img": "assets/img/produtos/quebra-cabecas/quebra-cabeca-foto.png" }
+	],
+	"squeezes": [
+		{ "nome": "Squeeze Sport Enfermagem", "img": "assets/img/produtos/squeezes/squeeze-sport-enfermagem.png" },
+		{ "nome": "Squeeze Sport Medicina", "img": "assets/img/produtos/squeezes/squeeze-sport-medicina.png" }
+	]
+}
