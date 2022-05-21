@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
+$gradient: linear-gradient(to bottom right, rgb(148, 255, 148), rgb(60, 241, 241));
+
 * {
 	margin: 0;
 	padding: 0;
@@ -12,4 +14,3 @@ a {
 	text-decoration: none;
 	cursor: pointer;
 }
-

@@ -1,41 +1,49 @@
 @import 'base';
 
-.navbar {
+.menu-icon {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	background: $gradient;
+	border-radius: 50%;
+	padding: 20px;
+}
+
+.navbar-items {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	position: fixed;
+	top: 0;
+	right: 0;
+	z-index: 1;
+	height: 100vh;
+	width: 250px;
 	background-color: black;
 	color: white;
-	position: sticky;
-	top: 0;
-	z-index: 1;
-	
-	.menu-icon {
-		text-align: right;
+	transition: all 0.3s ease-in-out;
 
-		i {
-			padding: 20px;
-		}
+	>*:nth-child(1) {
+		align-self: flex-end;
+		padding: 15px;
 	}
 
-	.navbar-items {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		
+	>* {
 		>* {
-			display: flex;
-	
-			>* {
-				padding: 15px;
-			}
+			padding: 15px;
 		}
-	}
-
-	.hidden {
-		display: none;
 	}
 }
 
+.hidden {
+	position: fixed;
+	top: 0;
+	right: -250px;
+}
+
 .header {
-	background: linear-gradient(to bottom right, rgb(148, 255, 148), rgb(60, 241, 241));
+	background: $gradient;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -58,6 +66,7 @@
 	h2 {
 		font-size: 16px;
 	}
+
 }
 
 .products-container {
