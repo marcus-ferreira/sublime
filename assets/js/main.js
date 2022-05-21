@@ -1,10 +1,20 @@
-const navItem = document.querySelectorAll('.navbar ul li a');
+const navMenu = document.querySelector('.navbar-items');
+const navItem = document.querySelectorAll('.navbar-items a');
 const productsList = document.querySelector('.products-list');
+
+function toggleMenu() {
+	if (navMenu.classList.contains('hidden')) {
+		navMenu.classList.remove('hidden'); 
+	} else {
+		navMenu.classList.add('hidden'); 
+	}
+}
 
 function activateSection() {
 	productsList.innerHTML = '';
 	navItem.forEach(item => item.classList.remove('active'));
 	this.classList.add('active');
+	toggleMenu();
 
 	fetch("assets/json/products.json")
 		.then(res => res.json())
@@ -46,4 +56,3 @@ fetch("assets/json/products.json")
 			});
 		};
 	});
-
